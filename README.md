@@ -19,10 +19,18 @@ When I'm not coding, you'll find me exploring new frameworks, sipping coffee, an
 
 ## 🛠️ Tech Stack
 
-![Python](https://img.shields.io/badge/Python-8A2BE2?style=flat-square&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/Postgres-8A2BE2?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-F5F5F5?style=flat-square&logo=docker&logoColor=8A2BE2)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-FFC0CB?style=flat-square&logo=github-actions&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-8A2BE2?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F5F5F5?style=flat-square&logo=javascript&logoColor=8A2BE2)
+![MongoDB](https://img.shields.io/badge/MongoDB-8A2BE2?style=flat-square&logo=mongodb&logoColor=white)
+![Express](https://img.shields.io/badge/Express-F5F5F5?style=flat-square&logo=express&logoColor=8A2BE2)
+![Next.js](https://img.shields.io/badge/Next.js-FFC0CB?style=flat-square&logo=nextdotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-8A2BE2?style=flat-square&logo=nestjs&logoColor=white)
+![Go](https://img.shields.io/badge/Go-F5F5F5?style=flat-square&logo=go&logoColor=8A2BE2)
+![Flask](https://img.shields.io/badge/Flask-FFC0CB?style=flat-square&logo=flask&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-8A2BE2?style=flat-square&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-F5F5F5?style=flat-square&logo=flutter&logoColor=8A2BE2)
+![C++](https://img.shields.io/badge/C++-FFC0CB?style=flat-square&logo=cplusplus&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-8A2BE2?style=flat-square&logo=html5&logoColor=white)
 
 ---
 
