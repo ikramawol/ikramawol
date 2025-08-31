@@ -1,5 +1,5 @@
 
-<h1 align="center">✨ ikramawol ✨</h1>
+<h1 align="center">✨ Ikram Awol ✨</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Backend%20Developer-8A2BE2?style=for-the-badge&logo=server&logoColor=white" />
@@ -34,13 +34,6 @@ When I'm not coding, you'll find me exploring new frameworks, sipping coffee, an
 
 ---
 
-## 🌸 Featured Projects
-
-- **ElegantAPI** – RESTful API design with Django REST Framework, best practices, and beautiful docs.
-- **SecureServer** – Advanced authentication, JWT, and role-based access systems.
-- **Automation Fairy** – CI/CD pipelines with GitHub Actions and Docker for magical deployments.
-
----
 
 ## 💬 Connect with Me
 
@@ -55,5 +48,5 @@ When I'm not coding, you'll find me exploring new frameworks, sipping coffee, an
 </p>
 
 <p align="center">
-  <sub>Made with 💖 by Ikram Awol | Backend with a touch of ✨</sub>
+  <sub>Made with 💖 by Ikram Awol ✨</sub>
 </p>
