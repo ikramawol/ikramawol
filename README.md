@@ -20,20 +20,21 @@ When I'm not coding, you'll find me exploring new frameworks, sipping coffee, an
 
 ## 🛠️ Tech Stack
 
-![TypeScript](https://img.shields.io/badge/TypeScript-8A2BE2?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F5F5F5?style=flat-square&logo=javascript&logoColor=8A2BE2)
-![MongoDB](https://img.shields.io/badge/MongoDB-8A2BE2?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Express](https://img.shields.io/badge/Express-F5F5F5?style=flat-square&logo=express&logoColor=8A2BE2)
-![Next.js](https://img.shields.io/badge/Next.js-FFC0CB?style=flat-square&logo=nextdotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-8A2BE2?style=flat-square&logo=nestjs&logoColor=white)
-![Go](https://img.shields.io/badge/Go-F5F5F5?style=flat-square&logo=go&logoColor=8A2BE2)
-![Flask](https://img.shields.io/badge/Flask-FFC0CB?style=flat-square&logo=flask&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-8A2BE2?style=flat-square&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-F5F5F5?style=flat-square&logo=flutter&logoColor=8A2BE2)
-![C++](https://img.shields.io/badge/C++-FFC0CB?style=flat-square&logo=cplusplus&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-8A2BE2?style=flat-square&logo=html5&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+
 
 ---
 
