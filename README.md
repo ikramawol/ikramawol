@@ -1,5 +1,5 @@
 
-<h1 align="center">✨ Ikram Awol ✨</h1>
+<h1 align="center">✨  Hello! I'm Ikram Awol ✨</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Backend%20Developer-8A2BE2?style=for-the-badge&logo=server&logoColor=white" />
@@ -11,9 +11,14 @@
 
 ## 🧁 About Me
 
-Hello! I'm **Ikram Awol** – a backend engineer with a passion for elegant code and clean APIs.  
+I'm a backend engineer with a passion for elegant code and clean APIs.  
 I love crafting robust architectures, automating everything, and bringing a little style to the server side.  
 When I'm not coding, you'll find me exploring new frameworks, sipping coffee, and adding a dash of creativity to my projects. ✨
+
+- 👀 I’m interested in Software Development and Problem Solving
+- 🌱 I’m Electrical and Computer Engineering student in AASTU
+- 💞️ I’m looking to collaborate on any creative solutions related projects
+- 👩‍💻 I'm into Backend Development and Flutter Developer 
 
 ---
 
@@ -40,6 +45,12 @@ When I'm not coding, you'll find me exploring new frameworks, sipping coffee, an
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40"/>
 </p>
 
+---
+
+## Github Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ikramawol&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ikramawol&show_icons=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=ikramawol)
 
 
 ---
