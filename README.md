@@ -20,22 +20,24 @@ When I'm not coding, you'll find me exploring new frameworks, sipping coffee, an
 
 ## 🛠️ Tech Stack
 
-![TypeScript](https://img.shields.io/badge/-?style=flat-square&logo=typescript&logoColor=3178C6)
-![JavaScript](https://img.shields.io/badge/-?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![MongoDB](https://img.shields.io/badge/-?style=flat-square&logo=mongodb&logoColor=47A248)
-![MySQL](https://img.shields.io/badge/-?style=flat-square&logo=mysql&logoColor=4479A1)
-![PostgreSQL](https://img.shields.io/badge/-?style=flat-square&logo=postgresql&logoColor=4169E1)
-![Express](https://img.shields.io/badge/-?style=flat-square&logo=express&logoColor=000000)
-![Next.js](https://img.shields.io/badge/-?style=flat-square&logo=nextdotjs&logoColor=000000)
-![NestJS](https://img.shields.io/badge/-?style=flat-square&logo=nestjs&logoColor=E0234E)
-![Go](https://img.shields.io/badge/-?style=flat-square&logo=go&logoColor=00ADD8)
-![Flask](https://img.shields.io/badge/-?style=flat-square&logo=flask&logoColor=000000)
-![Dart](https://img.shields.io/badge/-?style=flat-square&logo=dart&logoColor=0175C2)
-![Flutter](https://img.shields.io/badge/-?style=flat-square&logo=flutter&logoColor=02569B)
-![C++](https://img.shields.io/badge/-?style=flat-square&logo=cplusplus&logoColor=00599C)
-![HTML5](https://img.shields.io/badge/-?style=flat-square&logo=html5&logoColor=E34F26)
-![Python](https://img.shields.io/badge/-?style=flat-square&logo=python&logoColor=3776AB)
-![Node.js](https://img.shields.io/badge/-?style=flat-square&logo=node.js&logoColor=339933)
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+</p>
 
 
 
