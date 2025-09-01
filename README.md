@@ -23,6 +23,8 @@ When I'm not coding, you'll find me exploring new frameworks, sipping coffee, an
 ![TypeScript](https://img.shields.io/badge/TypeScript-8A2BE2?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F5F5F5?style=flat-square&logo=javascript&logoColor=8A2BE2)
 ![MongoDB](https://img.shields.io/badge/MongoDB-8A2BE2?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-F5F5F5?style=flat-square&logo=express&logoColor=8A2BE2)
 ![Next.js](https://img.shields.io/badge/Next.js-FFC0CB?style=flat-square&logo=nextdotjs&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-8A2BE2?style=flat-square&logo=nestjs&logoColor=white)
