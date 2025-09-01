@@ -11,14 +11,15 @@
 
 ## 🧁 About Me
 
-I'm a backend engineer with a passion for elegant code and clean APIs.  
-I love crafting robust architectures, automating everything, and bringing a little style to the server side.  
-When I'm not coding, you'll find me exploring new frameworks, sipping coffee, and adding a dash of creativity to my projects. ✨
+I'm a backend engineer with a passion for elegant code and clean APIs.I love crafting robust architectures, automating everything, and bringing a little style to the server side. When I'm not coding, you'll find me exploring new frameworks, sipping coffee, and adding a dash of creativity to my projects. ✨
 
 - 👀 I’m interested in Software Development and Problem Solving
 - 🌱 I’m Electrical and Computer Engineering student in AASTU
 - 💞️ I’m looking to collaborate on any creative solutions related projects
-- 👩‍💻 I'm into Backend Development and Flutter Developer 
+- 👩‍💻 I'm into Backend Development and Flutter Developer
+
+  
+![Profile Views](https://komarev.com/ghpvc/?username=ikramawol&color=FDD7E4&style=flat-square)
 
 ---
 
@@ -68,6 +69,7 @@ When I'm not coding, you'll find me exploring new frameworks, sipping coffee, an
 ## 👩‍💻 Github Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=ikramawol&background=000000&ring=FDD7E4&fire=FDD7E4&currStreakLabel=FDD7E4&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ikramawol&show_icons=true&bg_color=000000&title_color=FDD7E4&text_color=FFFFFF&icon_color=FDD7E4)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ikramawol&layout=compact&bg_color=000000&title_color=FDD7E4&text_color=FFFFFF&icon_color=FDD7E4)
