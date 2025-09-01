@@ -67,11 +67,10 @@ I'm a backend engineer with a passion for elegant code and clean APIs.I love cra
 ---
 
 ## 👩‍💻 Github Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ikramawol&layout=compact&bg_color=000000&title_color=FDD7E4&text_color=FFFFFF&icon_color=FDD7E4)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ikramawol&background=000000&ring=FDD7E4&fire=FDD7E4&currStreakLabel=FDD7E4&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF) ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ikramawol&show_icons=true&bg_color=000000&title_color=FDD7E4&text_color=FFFFFF&icon_color=FDD7E4)
+![GitHub Streak](https://streak-stats.demolab.com?user=ikramawol&background=000000&ring=FDD7E4&fire=FDD7E4&currStreakLabel=FDD7E4&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ikramawol&layout=compact&bg_color=000000&title_color=FDD7E4&text_color=FFFFFF&icon_color=FDD7E4)
 
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ikramawol&show_icons=true&bg_color=000000&title_color=FDD7E4&text_color=FFFFFF&icon_color=FDD7E4)
 
 ---
 
