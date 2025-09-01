@@ -47,10 +47,11 @@ When I'm not coding, you'll find me exploring new frameworks, sipping coffee, an
 
 ---
 
+
 ## Github Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ikramawol&layout=compact)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ikramawol&show_icons=true)
-![GitHub Streak](https://streak-stats.demolab.com/?user=ikramawol)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ikramawol&layout=compact&bg_color=000000&title_color=FDD7E4&text_color=FFFFFF&icon_color=FDD7E4)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ikramawol&show_icons=true&bg_color=000000&title_color=FDD7E4&text_color=FFFFFF&icon_color=FDD7E4)
+![GitHub Streak](https://streak-stats.demolab.com?user=ikramawol&background=000000&ring=FDD7E4&fire=FDD7E4&currStreakLabel=FDD7E4&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF)
 
 
 ---
