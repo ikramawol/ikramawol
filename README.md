@@ -22,8 +22,26 @@ When I'm not coding, you'll find me exploring new frameworks, sipping coffee, an
 
 ---
 
-## 🛠️ Tech Stack
+## 💬 Connect with Me
 
+<p>
+  <a href="https://www.linkedin.com/in/ikramawol" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  <a href="https://twitter.com/ikramawol" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="Twitter" width="40" height="40"/>
+  </a>
+  <a href="mailto:ikramawol@example.com">
+    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email" width="40" height="40"/>
+  </a>
+  <a href="https://leetcode.com/u/IkramAwol/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40" height="40"/>
+  </a>
+</p>
+
+---
+
+## 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
@@ -47,33 +65,12 @@ When I'm not coding, you'll find me exploring new frameworks, sipping coffee, an
 
 ---
 
+## 👩‍💻 Github Stats
 
-## Github Stats
 ![GitHub Streak](https://streak-stats.demolab.com?user=ikramawol&background=000000&ring=FDD7E4&fire=FDD7E4&currStreakLabel=FDD7E4&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ikramawol&show_icons=true&bg_color=000000&title_color=FDD7E4&text_color=FFFFFF&icon_color=FDD7E4)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ikramawol&layout=compact&bg_color=000000&title_color=FDD7E4&text_color=FFFFFF&icon_color=FDD7E4)
-
-
----
-
-
-## 💬 Connect with Me
-
-<p>
-  <a href="https://www.linkedin.com/in/ikramawol" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
-  </a>
-  <a href="https://twitter.com/ikramawol" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="Twitter" width="40" height="40"/>
-  </a>
-  <a href="mailto:ikramawol@example.com">
-    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email" width="40" height="40"/>
-  </a>
-  <a href="https://leetcode.com/u/IkramAwol/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40" height="40"/>
-  </a>
-</p>
 
 
 ---
