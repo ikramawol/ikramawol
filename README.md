@@ -3,9 +3,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Backend%20Developer-8A2BE2?style=for-the-badge&logo=server&logoColor=white" />
-  <img src="https://img.shields.io/badge/FlutterDev%20Developer-F5F5F5?style=for-the-badge&logo=server&logoColor=8A2BE2" />
+  <img src="https://img.shields.io/badge/Flutter%20Developer-F5F5F5?style=for-the-badge&logo=server&logoColor=8A2BE2" />
   <img src="https://img.shields.io/badge/Aesthetic%20Coding-FFC0CB?style=for-the-badge&logo=paintpalette&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub%20Profile-F5F5F5?style=for-the-badge&logo=github&logoColor=8A2BE2" />
 </p>
 
 ---
